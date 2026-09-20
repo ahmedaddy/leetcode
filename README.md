@@ -20,4 +20,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ahmedaddy/leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ahmedaddy/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->

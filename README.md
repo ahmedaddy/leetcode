@@ -10,15 +10,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaddy/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ahmedaddy/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaddy/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ahmedaddy/leetcode/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaddy/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ahmedaddy/leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ahmedaddy/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0125-valid-palindrome](https://github.com/ahmedaddy/leetcode/tree/master/0125-valid-palindrome) |
@@ -26,4 +29,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedaddy/leetcode/tree/master/0007-reverse-integer) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ahmedaddy/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

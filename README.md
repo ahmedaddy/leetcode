@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ahmedaddy/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ahmedaddy/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [1929-concatenation-of-array](https://github.com/ahmedaddy/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ahmedaddy/leetcode/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/ahmedaddy/leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

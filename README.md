@@ -10,6 +10,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ahmedaddy/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0485-max-consecutive-ones](https://github.com/ahmedaddy/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ahmedaddy/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedaddy/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ahmedaddy/leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ahmedaddy/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ahmedaddy/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedaddy/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,4 +61,9 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ahmedaddy/leetcode/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedaddy/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedaddy/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

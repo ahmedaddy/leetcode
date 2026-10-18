@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/ahmedaddy/leetcode/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedaddy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ahmedaddy/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaddy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ahmedaddy/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ahmedaddy/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ahmedaddy/leetcode/tree/master/0645-set-mismatch) |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ahmedaddy/leetcode/tree/master/0007-reverse-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaddy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Manacher
 |  |
 | ------- |
@@ -73,5 +75,6 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaddy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ahmedaddy/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->

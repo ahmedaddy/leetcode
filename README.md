@@ -16,6 +16,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ahmedaddy/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ahmedaddy/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ahmedaddy/leetcode/tree/master/1470-shuffle-the-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ahmedaddy/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1929-concatenation-of-array](https://github.com/ahmedaddy/leetcode/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
 |  |
@@ -79,4 +80,9 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ahmedaddy/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/ahmedaddy/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ahmedaddy/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ahmedaddy/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ahmedaddy/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
